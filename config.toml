@@ -95,7 +95,7 @@ theme = "hugo-freelancer-theme"
 
     [params.blog]
         title = "Blog"
-        link = "//codeascode.github.io/"
+        link = "//itaborda.github.io/blog"
 
     [params.footer]
         copyright = "Published under the Apache License 2.0. Powered by [Hugo](//gohugo.io)."
